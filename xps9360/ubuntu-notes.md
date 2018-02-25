@@ -1,6 +1,8 @@
 # Ubuntu 17.10 on Dell XPS 13 (9360)
 
-Running list of notes I have getting Ubuntu happy on an XPS 1360
+Running list of notes I have getting Ubuntu happy on an XPS 13" 9360
+
+The [arch notes](https://wiki.archlinux.org/index.php/Dell_XPS_13_(9360) are fantastic.
 
 ## Scaling on display
 
